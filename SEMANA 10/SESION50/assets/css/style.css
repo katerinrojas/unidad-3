@@ -1,0 +1,9 @@
+body {
+  background-color: black;
+  text-transform: lowercase;
+  color: antiquewhite;
+}
+
+p {
+  font-size: 1.5rem;
+}
